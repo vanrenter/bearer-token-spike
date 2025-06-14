@@ -3,11 +3,11 @@ a test project for an issue in spring-boot:3.5.0
 
 ## branches
 * main
-** spring-boot:3.5.0 with error
+	* spring-boot:3.5.0 with error
 * spring-boot:3.4.6
-** the latest working version
+	* the latest working version
 * workaround
-** spring-boot:3.5.0 + workaround (added dependency)
+	* spring-boot:3.5.0 + workaround (added dependency)
 
 ## error
 
