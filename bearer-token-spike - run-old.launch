@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <booleanAttribute key="org.eclipse.debug.core.ATTR_FORCE_SYSTEM_CONSOLE_ENCODING" value="false"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/bearer-token-spike/src/main/java/spike/Api.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+        <mapEntry key="SPRING_PROFILES_ACTIVE" value="local"/>
+    </mapAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+    <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="spike.Api"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="bearer-token-spike"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="bearer-token-spike"/>
+    <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="--add-opens=java.base/jdk.internal.access=ALL-UNNAMED&#13;&#10;--add-opens=java.base/jdk.internal.misc=ALL-UNNAMED&#13;&#10;--add-opens=java.base/sun.nio.ch=ALL-UNNAMED&#13;&#10;--add-opens=java.base/sun.util.calendar=ALL-UNNAMED&#13;&#10;--add-opens=java.management/com.sun.jmx.mbeanserver=ALL-UNNAMED&#13;&#10;--add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED&#13;&#10;--add-opens=java.base/sun.reflect.generics.reflectiveObjects=ALL-UNNAMED&#13;&#10;--add-opens=jdk.management/com.sun.management.internal=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.io=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.nio=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.net=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.util=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.util.concurrent=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.util.concurrent.locks=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.lang=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.lang.invoke=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.math=ALL-UNNAMED&#13;&#10;--add-opens=java.sql/java.sql=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.lang.reflect=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.time=ALL-UNNAMED&#13;&#10;--add-opens=java.base/java.text=ALL-UNNAMED&#13;&#10;--add-opens=java.management/sun.management=ALL-UNNAMED&#13;&#10;--add-opens=java.desktop/java.awt.font=ALL-UNNAMED&#13;&#10;-Xms520m&#13;&#10;-Xmx2048m&#13;&#10;-XX:+UseG1GC&#13;&#10;-XX:MaxDirectMemorySize=1024m&#13;&#10;-XX:+DisableExplicitGC&#13;&#10;-Dfile.encoding=UTF-8&#13;&#10;-Djava.net.preferIPv4Stack=true&#13;&#10;-Djava.net.preferIPv6Addresses=false&#13;&#10;-Dspring.application.admin.enabled=true&#13;&#10;-Dspring.profiles.active=local"/>
+</launchConfiguration>
